@@ -1,49 +1,37 @@
 # GNcasestudyHW: FinTech Case Study
-
  
-3
 # TITLE
-4
+ 
 "Got Life?"
-5
-​
-6
+ 
+ 
 ## Overview and Origin:
-7
-​
-8
+ 
+ 
 New York Life Insurance Company, formerly known as Nautilus Insurance Company, was established in 1841 and at first was a fire and marine insurance company. Changed its name in 1845 once the company's direction focused on life insurance. New York Life Insurance Company is the largest mutual life insurance company in the United States and one of the largest life insurers in the world. Ranked on the Fortune 100 list with over $540 billion in total assets under management, and more than $19 billion in surplus. #1 Largest mutual insurer in the U.S with the highest financial strength rating AA+ with S&P.
-9
-​
-10
-​
-11
+ 
+
 * Name of company:
-12
+ 
 New York Life Insurance
-13
-​
-14
+ 
+ 
 * When was the company incorporated?:
-15
+ 
  Incorporated: 1841 as Nautilus Insurance Company
-16
-​
-17
+ 
+ 
 * Who are the founders of the company?:
   James De Peyster Ogden (first elected president by the board of trustees)
-18
-​
-19
-​
-20
+ 
+
+ 
 * How did the idea for the company (or project) come about?:
  
-21
+ 
  The company sold life, fire, and marine insurance, as well as insuring the lives of slaves for their owners. The company voted to end the sale of insurance policies on slaves in 1848.
-22
-​
-23
+ 
+ 
 * How is the company funded? How much funding have they received?:
   The company is funded by the policyholders of the life insurance policies written and driven by the system of sales agents and is currently managing over $540 billion in assets.
  
@@ -149,28 +137,19 @@ The recommendation I would make to the companies in the same domain is providing
  
 https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/new-york-life-insurance-company#:~:text=New%20York%20Life%20has%20its,to%20concentrate%20on%20life%20insurance.
  
-27
-​
-28
+ 
 https://www.newyorklife.com/corporate-responsibility
  
-29
-​
-30
+ 
 https://www.newyorklife.com/newsroom/history-five-facts-founding-new-york-life
  
-31
-​
-32
+ 
 https://en.wikipedia.org/wiki/New_York_Life_Insurance_Company#:~:text=Early%20history,-Advertisement%20from%20Shole's&text=Originally%20chartered%20in%201841%2C%20the,on%20its%20life%20insurance%20business.
  
 https://www.mbaskool.com/brandguide/banking-and-financial-services/624-new-york-life-insurance.html#strengths
  
 https://rsmus.com/insights/industries/asset-management/the-top-10-trends-redefining-the-future-of-asset-management.html
  
-33
-​
-34
 https://www.zippia.com/new-york-life-insurance-company-careers-59740/?src=sp-popout-timed
  
 https://en.wikipedia.org/wiki/New_York_Life_Insurance_Company#:~:text=Early%20history,-Advertisement%20from%20Shole's&text=Originally%20chartered%20in%201841%2C%20the,on%20its%20life%20insurance%20business.
